@@ -1,0 +1,57 @@
+"Region","Month","PERS","Percent_NA","Sample_size_for_kde"
+"Barents Sea",1,28.0378,19.2389006342495,7384
+"Barents Sea",10,19.0797,47.7302204928664,14894
+"Barents Sea",11,23.9081,33.167495854063,9121
+"Barents Sea",12,27.6384,23.0055658627087,6801
+"Barents Sea",2,24.7676,35.8458961474037,7280
+"Barents Sea",3,24.6406,36.5313653136531,7285
+"Barents Sea",4,25.0348,38.89816360601,7348
+"Barents Sea",5,18.6737,52.2865853658537,4644
+"Barents Sea",6,17.6687,56.6610455311973,4607
+"Barents Sea",7,17.0355,57.0391872278665,5086
+"Barents Sea",8,17.7245,51.7441860465116,11107
+"Barents Sea",9,0,NA,20381
+"Canadian Eastern Arctic - West Greenland",1,21.1715,4.26829268292683,147
+"Canadian Eastern Arctic - West Greenland",10,21.1806,4.91803278688525,415
+"Canadian Eastern Arctic - West Greenland",11,20.7755,5.09259259259259,693
+"Canadian Eastern Arctic - West Greenland",12,21.0312,5.58375634517767,392
+"Canadian Eastern Arctic - West Greenland",5,21.2373,7.14285714285714,131
+"Canadian Eastern Arctic - West Greenland",7,20.233,7.3394495412844,213
+"Canadian Eastern Arctic - West Greenland",8,19.5388,8.41121495327103,1108
+"Canadian Eastern Arctic - West Greenland",9,20.5855,5.58139534883721,516
+"Faroe Plateau",1,25.7943,0,1047
+"Faroe Plateau",10,25.5327,0,372
+"Faroe Plateau",11,25.7074,0,577
+"Faroe Plateau",12,25.7421,0,939
+"Faroe Plateau",2,25.8055,0,836
+"Faroe Plateau",3,25.7744,0,861
+"Faroe Plateau",4,25.8083,0,882
+"Faroe Plateau",5,25.7426,0,1103
+"Faroe Plateau",6,25.7099,0,546
+"Faroe Plateau",7,25.7871,0,910
+"Faroe Plateau",8,25.7821,0,478
+"Faroe Plateau",9,25.4853,0.645161290322581,339
+"Iceland Shelf and Sea",1,24.893,2.62172284644195,7961
+"Iceland Shelf and Sea",10,24.2358,3.45911949685535,1779
+"Iceland Shelf and Sea",11,0,NA,2457
+"Iceland Shelf and Sea",12,24.7689,3.32225913621263,5009
+"Iceland Shelf and Sea",2,24.8945,3.1496062992126,8490
+"Iceland Shelf and Sea",3,24.5824,2.78884462151394,9576
+"Iceland Shelf and Sea",4,24.4081,2.97397769516729,8030
+"Iceland Shelf and Sea",5,24.1657,2.87769784172662,5852
+"Iceland Shelf and Sea",6,24.2825,2.5531914893617,6474
+"Iceland Shelf and Sea",7,24.3698,3.23886639676113,6759
+"Iceland Shelf and Sea",8,24.5153,3.14685314685315,2196
+"Iceland Shelf and Sea",9,24.3645,2.9126213592233,1118
+"North Sea",1,28.2218,4.16666666666667,15889
+"North Sea",10,28.6117,5.49450549450549,8281
+"North Sea",11,28.3859,4.1025641025641,10808
+"North Sea",12,28.2965,3.60824742268041,13300
+"North Sea",2,28.1098,3.74331550802139,12815
+"North Sea",3,28.3466,4.95049504950495,11283
+"North Sea",4,28.2564,4,12353
+"North Sea",5,28.3747,4.02010050251256,12482
+"North Sea",6,28.142,4.51977401129944,10238
+"North Sea",7,28.3379,4.76190476190476,14820
+"North Sea",8,28.725,4.16666666666667,13116
+"North Sea",9,29.035,5.17241379310345,9112
